@@ -1,2 +1,10 @@
 # hello-world
 Just another repository 
+#include <iostream>
+using namespace std;
+int main(void)
+{
+
+	return 0;
+}
+  
